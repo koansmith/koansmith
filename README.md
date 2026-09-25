@@ -16,6 +16,6 @@ Adversarial examples, certified robustness, security of open-source frontier mod
 
 - Website: **[koanfoundry.tech](https://koanfoundry.tech)**
 - Writing: **[koanfoundry.tech/blog](https://koanfoundry.tech/blog)**
-- Cybersecurity work: **[github.com/d4rksid3](https://github.com/d4rk-sid3)**
+- Cybersecurity work: **[github.com/d4rk-sid3](https://github.com/d4rk-sid3)**
 - LinkedIn: **[linkedin.com/in/aimane-alassane](https://linkedin.com/in/aimane-alassane)**
 - Email: `aimane@koanfoundry.tech`
